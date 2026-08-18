@@ -1,5 +1,7 @@
 **UPDATE 2026-02-16:** Given the sensitive nature of tunneling tools, I'm going to start requiring at least 100 GitHub stars on any new additions. Projects not hosted on GitHub and commercial offerings will be handled case-by-case. Feel free to open an issue if you see a problem with this policy.
 
+@OxygenCall please enable issues for this repo (sorry, no other way to contact you)
+
 # What is this list for
 
 The purpose of this list is to track and compare tunneling solutions. This is
